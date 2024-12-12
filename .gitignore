@@ -1,0 +1,6 @@
+requirements.txt
+myenv
+.venv
+.pytest_cache
+pytest_cache
+__pycache__

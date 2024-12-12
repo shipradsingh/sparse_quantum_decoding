@@ -1,0 +1,104 @@
+(myenv) (myenv) shiprasingh@Shipras-MacBook-Pro belief_propagation % python3 src/belief_propagation_decoder.py
+2024-12-12 10:31:31,444 - Testing Signal-to-Noise Ratio: 1 decibels
+/Users/shiprasingh/quantum_architecture/belief_propagation/myenv/lib/python3.12/site-packages/pyldpc/decoder.py:62: UserWarning: Decoding stopped before convergence. You may want
+                       to increase maxiter
+  warnings.warn("""Decoding stopped before convergence. You may want
+2024-12-12 10:31:33,184 - Standard Sparse Metrics at Signal-to-Noise Ratio 1: Latency=0.017236, Block Error Rate=0.4300, Decoding Success Rate=0.5700
+2024-12-12 10:31:34,679 - Standard Dense Metrics at Signal-to-Noise Ratio 1: Latency=0.014815, Block Error Rate=0.6100, Decoding Success Rate=0.3900
+2024-12-12 10:31:36,665 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 1: Latency=0.019698, Block Error Rate=0.4400, Decoding Success Rate=0.5600
+2024-12-12 10:31:38,136 - Heuristic Dense Metrics at Signal-to-Noise Ratio 1: Latency=0.014563, Block Error Rate=0.6200, Decoding Success Rate=0.3800
+2024-12-12 10:31:38,136 - Testing Signal-to-Noise Ratio: 2 decibels
+2024-12-12 10:31:39,110 - Standard Sparse Metrics at Signal-to-Noise Ratio 2: Latency=0.009591, Block Error Rate=0.2700, Decoding Success Rate=0.7300
+2024-12-12 10:31:40,227 - Standard Dense Metrics at Signal-to-Noise Ratio 2: Latency=0.011024, Block Error Rate=0.4700, Decoding Success Rate=0.5300
+2024-12-12 10:31:41,372 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 2: Latency=0.011293, Block Error Rate=0.3200, Decoding Success Rate=0.6800
+2024-12-12 10:31:42,243 - Heuristic Dense Metrics at Signal-to-Noise Ratio 2: Latency=0.008564, Block Error Rate=0.4800, Decoding Success Rate=0.5200
+2024-12-12 10:31:42,243 - Testing Signal-to-Noise Ratio: 3 decibels
+2024-12-12 10:31:42,922 - Standard Sparse Metrics at Signal-to-Noise Ratio 3: Latency=0.006647, Block Error Rate=0.2500, Decoding Success Rate=0.7500
+2024-12-12 10:31:43,313 - Standard Dense Metrics at Signal-to-Noise Ratio 3: Latency=0.003786, Block Error Rate=0.4200, Decoding Success Rate=0.5800
+2024-12-12 10:31:43,768 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 3: Latency=0.004411, Block Error Rate=0.1800, Decoding Success Rate=0.8200
+2024-12-12 10:31:44,404 - Heuristic Dense Metrics at Signal-to-Noise Ratio 3: Latency=0.006215, Block Error Rate=0.4100, Decoding Success Rate=0.5900
+2024-12-12 10:31:44,404 - Testing Signal-to-Noise Ratio: 4 decibels
+2024-12-12 10:31:44,955 - Standard Sparse Metrics at Signal-to-Noise Ratio 4: Latency=0.005375, Block Error Rate=0.1500, Decoding Success Rate=0.8500
+2024-12-12 10:31:45,282 - Standard Dense Metrics at Signal-to-Noise Ratio 4: Latency=0.003150, Block Error Rate=0.3400, Decoding Success Rate=0.6600
+2024-12-12 10:31:45,618 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 4: Latency=0.003216, Block Error Rate=0.1000, Decoding Success Rate=0.9000
+2024-12-12 10:31:45,757 - Heuristic Dense Metrics at Signal-to-Noise Ratio 4: Latency=0.001252, Block Error Rate=0.2800, Decoding Success Rate=0.7200
+2024-12-12 10:31:45,757 - Testing Signal-to-Noise Ratio: 5 decibels
+2024-12-12 10:31:46,061 - Standard Sparse Metrics at Signal-to-Noise Ratio 5: Latency=0.002898, Block Error Rate=0.0900, Decoding Success Rate=0.9100
+2024-12-12 10:31:46,148 - Standard Dense Metrics at Signal-to-Noise Ratio 5: Latency=0.000747, Block Error Rate=0.2300, Decoding Success Rate=0.7700
+2024-12-12 10:31:46,375 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 5: Latency=0.002127, Block Error Rate=0.0700, Decoding Success Rate=0.9300
+2024-12-12 10:31:46,451 - Heuristic Dense Metrics at Signal-to-Noise Ratio 5: Latency=0.000624, Block Error Rate=0.3100, Decoding Success Rate=0.6900
+2024-12-12 10:31:46,451 - Testing Signal-to-Noise Ratio: 6 decibels
+2024-12-12 10:31:46,507 - Standard Sparse Metrics at Signal-to-Noise Ratio 6: Latency=0.000418, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:46,542 - Standard Dense Metrics at Signal-to-Noise Ratio 6: Latency=0.000227, Block Error Rate=0.1000, Decoding Success Rate=0.9000
+2024-12-12 10:31:46,688 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 6: Latency=0.001321, Block Error Rate=0.0500, Decoding Success Rate=0.9500
+2024-12-12 10:31:46,730 - Heuristic Dense Metrics at Signal-to-Noise Ratio 6: Latency=0.000287, Block Error Rate=0.2200, Decoding Success Rate=0.7800
+2024-12-12 10:31:46,731 - Testing Signal-to-Noise Ratio: 7 decibels
+2024-12-12 10:31:46,762 - Standard Sparse Metrics at Signal-to-Noise Ratio 7: Latency=0.000175, Block Error Rate=0.0100, Decoding Success Rate=0.9900
+2024-12-12 10:31:46,847 - Standard Dense Metrics at Signal-to-Noise Ratio 7: Latency=0.000725, Block Error Rate=0.1200, Decoding Success Rate=0.8800
+2024-12-12 10:31:46,904 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 7: Latency=0.000430, Block Error Rate=0.0200, Decoding Success Rate=0.9800
+2024-12-12 10:31:46,996 - Heuristic Dense Metrics at Signal-to-Noise Ratio 7: Latency=0.000788, Block Error Rate=0.1000, Decoding Success Rate=0.9000
+2024-12-12 10:31:46,996 - Testing Signal-to-Noise Ratio: 8 decibels
+2024-12-12 10:31:47,018 - Standard Sparse Metrics at Signal-to-Noise Ratio 8: Latency=0.000085, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,041 - Standard Dense Metrics at Signal-to-Noise Ratio 8: Latency=0.000106, Block Error Rate=0.1100, Decoding Success Rate=0.8900
+2024-12-12 10:31:47,068 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 8: Latency=0.000117, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,099 - Heuristic Dense Metrics at Signal-to-Noise Ratio 8: Latency=0.000185, Block Error Rate=0.0400, Decoding Success Rate=0.9600
+2024-12-12 10:31:47,100 - Testing Signal-to-Noise Ratio: 9 decibels
+2024-12-12 10:31:47,122 - Standard Sparse Metrics at Signal-to-Noise Ratio 9: Latency=0.000085, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,165 - Standard Dense Metrics at Signal-to-Noise Ratio 9: Latency=0.000312, Block Error Rate=0.0500, Decoding Success Rate=0.9500
+2024-12-12 10:31:47,188 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 9: Latency=0.000086, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,210 - Heuristic Dense Metrics at Signal-to-Noise Ratio 9: Latency=0.000090, Block Error Rate=0.0100, Decoding Success Rate=0.9900
+2024-12-12 10:31:47,210 - Testing Signal-to-Noise Ratio: 10 decibels
+2024-12-12 10:31:47,232 - Standard Sparse Metrics at Signal-to-Noise Ratio 10: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,253 - Standard Dense Metrics at Signal-to-Noise Ratio 10: Latency=0.000085, Block Error Rate=0.0100, Decoding Success Rate=0.9900
+2024-12-12 10:31:47,276 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 10: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,297 - Heuristic Dense Metrics at Signal-to-Noise Ratio 10: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,298 - Testing Signal-to-Noise Ratio: 11 decibels
+2024-12-12 10:31:47,320 - Standard Sparse Metrics at Signal-to-Noise Ratio 11: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,340 - Standard Dense Metrics at Signal-to-Noise Ratio 11: Latency=0.000080, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,363 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 11: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,384 - Heuristic Dense Metrics at Signal-to-Noise Ratio 11: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,384 - Testing Signal-to-Noise Ratio: 12 decibels
+2024-12-12 10:31:47,406 - Standard Sparse Metrics at Signal-to-Noise Ratio 12: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,427 - Standard Dense Metrics at Signal-to-Noise Ratio 12: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,449 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 12: Latency=0.000085, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,471 - Heuristic Dense Metrics at Signal-to-Noise Ratio 12: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,471 - Testing Signal-to-Noise Ratio: 13 decibels
+2024-12-12 10:31:47,492 - Standard Sparse Metrics at Signal-to-Noise Ratio 13: Latency=0.000080, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,513 - Standard Dense Metrics at Signal-to-Noise Ratio 13: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,536 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 13: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,557 - Heuristic Dense Metrics at Signal-to-Noise Ratio 13: Latency=0.000080, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,557 - Testing Signal-to-Noise Ratio: 14 decibels
+2024-12-12 10:31:47,579 - Standard Sparse Metrics at Signal-to-Noise Ratio 14: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,599 - Standard Dense Metrics at Signal-to-Noise Ratio 14: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,622 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 14: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,643 - Heuristic Dense Metrics at Signal-to-Noise Ratio 14: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,643 - Testing Signal-to-Noise Ratio: 15 decibels
+2024-12-12 10:31:47,666 - Standard Sparse Metrics at Signal-to-Noise Ratio 15: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,686 - Standard Dense Metrics at Signal-to-Noise Ratio 15: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,709 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 15: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,731 - Heuristic Dense Metrics at Signal-to-Noise Ratio 15: Latency=0.000086, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,731 - Testing Signal-to-Noise Ratio: 16 decibels
+2024-12-12 10:31:47,753 - Standard Sparse Metrics at Signal-to-Noise Ratio 16: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,774 - Standard Dense Metrics at Signal-to-Noise Ratio 16: Latency=0.000079, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,796 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 16: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,818 - Heuristic Dense Metrics at Signal-to-Noise Ratio 16: Latency=0.000079, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,818 - Testing Signal-to-Noise Ratio: 17 decibels
+2024-12-12 10:31:47,839 - Standard Sparse Metrics at Signal-to-Noise Ratio 17: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,860 - Standard Dense Metrics at Signal-to-Noise Ratio 17: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,884 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 17: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,905 - Heuristic Dense Metrics at Signal-to-Noise Ratio 17: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,905 - Testing Signal-to-Noise Ratio: 18 decibels
+2024-12-12 10:31:47,926 - Standard Sparse Metrics at Signal-to-Noise Ratio 18: Latency=0.000079, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,947 - Standard Dense Metrics at Signal-to-Noise Ratio 18: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,969 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 18: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,990 - Heuristic Dense Metrics at Signal-to-Noise Ratio 18: Latency=0.000078, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:47,990 - Testing Signal-to-Noise Ratio: 19 decibels
+2024-12-12 10:31:48,012 - Standard Sparse Metrics at Signal-to-Noise Ratio 19: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,033 - Standard Dense Metrics at Signal-to-Noise Ratio 19: Latency=0.000081, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,055 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 19: Latency=0.000083, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,077 - Heuristic Dense Metrics at Signal-to-Noise Ratio 19: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,077 - Testing Signal-to-Noise Ratio: 20 decibels
+2024-12-12 10:31:48,099 - Standard Sparse Metrics at Signal-to-Noise Ratio 20: Latency=0.000084, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,120 - Standard Dense Metrics at Signal-to-Noise Ratio 20: Latency=0.000082, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,142 - Heuristic Sparse Metrics at Signal-to-Noise Ratio 20: Latency=0.000080, Block Error Rate=0.0000, Decoding Success Rate=1.0000
+2024-12-12 10:31:48,163 - Heuristic Dense Metrics at Signal-to-Noise Ratio 20: Latency=0.000080, Block Error Rate=0.0000, Decoding Success Rate=1.0000
